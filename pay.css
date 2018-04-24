@@ -1,0 +1,38 @@
+ .page__hd img{
+    height: 6em;
+    width: 6em;
+    position: relative;
+    top:100px;
+} 
+.page__hd .pay__state{
+    position: relative;
+    top: 90px;
+    font-size: 25px;
+    color:green;
+} 
+.page__bd{
+
+    position:relative;
+    top:170px;
+} 
+.pay__amount{
+    font-size: 50px;
+    font-weight: bold;
+}
+.pay__amount span{
+    font-size: 30px;
+    position: relative;
+    top: -10px;
+    font-weight:normal;
+}
+.page__fd{
+    position:relative;
+    top:250px;
+    border: green 1px solid;
+    border-radius: 5px;
+    width: 170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    
+}  
